@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Mulia Firmansyah Arief</h1>
 <h3 align="center">A passionate Fullstack Developer who loves to learn new things</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mulia16" alt="Mulia16" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mulia16&rank=-C" alt="Mulia16" /></a> </p>
 
 - 🔭 I’m currently working on [Mesail Creative Hub](https://mchub.io)
 
