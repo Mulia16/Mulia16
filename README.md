@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mulia16&rank=-C" alt="Mulia16" /></a> </p>
 
-- 🔭 I’m currently working on [Mesail Creative Hub](https://mchub.io)
+- 🔭 I’m currently working on Folie A Trois
 
 - 🌱 I’m currently learning **UI/UX**
 
